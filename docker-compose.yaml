@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  sysfoo:
+    image: ajit0308/sysfoo:latest
+    ports:
+      - 8888:8080
